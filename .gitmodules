@@ -1,0 +1,3 @@
+[submodule "pykaraoke"]
+	path = pykaraoke
+	url = git@github.com:Karontux/pykaraoke.git
